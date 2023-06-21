@@ -28,6 +28,7 @@
     "LICENSE-MIT",
     "iana-tz-data.json"
   ],
-  "dependencies": {},
-  "devDependencies": {}
+  "dependencies": {
+    "moment-timezone": "^0.5.43"
+  }
 }
